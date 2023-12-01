@@ -1,0 +1,15 @@
+{
+  "name": "Drugmans",
+  "short_name": "Drugmans",
+  "id": "com.cars.drugman",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "dru__1_-removebg-preview.png",
+        "sizes": "512x512"
+      }]
+}
